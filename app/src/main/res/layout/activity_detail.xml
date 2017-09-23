@@ -4,6 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="jp.a2kaido.kuralab.lives.ui.DetailActivity">
+    tools:context="jp.a2kaido.kuralab.lives.ui.HomeActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/detailRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>

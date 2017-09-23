@@ -5,7 +5,7 @@
 
     <TextView
         android:id="@+id/homeRecyclerTextView"
-        android:textSize="12sp"
+        android:textSize="17sp"
         android:layout_marginStart="16dp"
         android:gravity="center_vertical"
         android:layout_width="wrap_content"
